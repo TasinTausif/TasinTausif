@@ -24,14 +24,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Full Stack Software Engineer** with **2+ years of production experience** building enterprise-grade ERP systems and web applications. I specialise in designing clean, scalable backend architectures and shipping reliable full stack solutions that real businesses depend on.
-
-- 🛠️ Delivered **3 production ERP systems** (Real Estate, Bulk Carrier, Steel Mill) customised for **9+ enterprise clients**
-- ⚙️ Built **10+ integrated modules** per system — Sales, HR, SCM, BOQ, Construction, Customer Care and more
-- 🔐 Architected **config-driven multi-layered approval workflows**, RBAC, and secure REST APIs with Laravel Sanctum
-- ⚡ Strong focus on **performance** — N+1 resolution via eager loading, indexing, query optimisation, pagination
-- 📬 Async processing with **Laravel Queues & Jobs**, Supervisor-managed workers across multiple environments
-- 🌱 Currently working with **Vue.js** in production and deepening DevOps knowledge with Docker
+I'm a **Full Stack Software Engineer** with **2+ years of production experience** building enterprise-grade ERP systems and web applications. I specialise in designing clean, scalable backend architectures and shipping reliable full-stack solutions that real businesses depend on.
 
 ---
 
