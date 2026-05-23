@@ -95,6 +95,7 @@ I'm a **Full Stack Software Engineer** with **2+ years of production experience*
 
 ## 📜 Certifications
 
+- 🐘 PHP with Laravel Framework — *BASIS Institute of Technology & Management (BITM)*
 - 🎓 Mastering Git & GitHub — *Udemy*
 - 🎨 Professional Web Design — *ICT School Bangladesh*
 - 🗣️ Professional English Communication — *WSDA, New Zealand*
@@ -118,8 +119,3 @@ I'm open to **mid-level full-stack / Laravel / React.js developer roles** in Ban
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TasinTausif&style=flat-square&color=blue" alt="profile views" />
-</p>
