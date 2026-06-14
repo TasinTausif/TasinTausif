@@ -56,16 +56,18 @@ I'm a **Full Stack Software Engineer** with **2+ years of production experience*
 ![Query Builder](https://img.shields.io/badge/Query_Builder-336791?style=flat-square)
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-6DB33F?style=flat-square)
 
-### Tools & DevOps
+### Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
@@ -76,20 +78,6 @@ I'm a **Full Stack Software Engineer** with **2+ years of production experience*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
----
-
-## 🏆 Work Highlights
-
-| | |
-|---|---|
-| 🏗️ **ERP Systems Built**
-| 👥 **Clients Served** | 9+ enterprise clients |
-| 🧩 **Modules Delivered** | 10+ per system 
-| 🔒 **Auth & Security** | Laravel Sanctum · RBAC · Multi-layered approval workflows · PDF stamping |
-| ⚡ **Performance** | N+1 resolution · Eager loading · Indexing · Query optimisation · Pagination |
-| 📬 **Async Processing** | Laravel Queues & Jobs · Supervisor-managed workers |
-| 🎨 **Frontend** | Vue.js (current) · React · Redux Toolkit · Blade · Tailwind · Bootstrap |
 
 ---
 
