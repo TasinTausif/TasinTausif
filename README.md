@@ -24,7 +24,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Full Stack Software Engineer** with **2+ years of production experience** building enterprise-grade ERP systems and web applications. I specialise in designing clean, scalable backend architectures and shipping reliable full-stack solutions that real businesses depend on.
+I'm a **Full Stack Software Engineer** with **3.5+ years of production experience** building enterprise-grade ERP systems and web applications. I specialise in designing clean, scalable backend architectures and shipping reliable full-stack solutions that real businesses depend on.
 
 ---
 
